@@ -1,4 +1,4 @@
-👋 Hi, I’m Pranali! I'm a Business Analyst passionate about transforming data into actionable insights 📊. Currently, I'm **pursuing a Master’s in Business Analytics 🎓 at Aston University**, where I’ve been diving deep into data analysis and visualization.
+👋 Hi, I’m Pranali! I'm a Business Analyst passionate about transforming data into actionable insights 📊. Recently, I have **completed a Master’s in Business Analytics 🎓 at Aston University**, where I’ve been diving deep into data analysis and visualization.
 
 I’ve worked extensively with **Power BI, SQL, Python, and Tableau** to create interactive dashboards and reports that help businesses make informed decisions. My goal is to always make data clear, meaningful, and actionable for all users.
 
